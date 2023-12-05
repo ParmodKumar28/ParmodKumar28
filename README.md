@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmodkumar28&label=Profile%20views&color=0e75b6&style=flat" alt="parmodkumar28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmodkumar28" alt="parmodkumar28" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
@@ -15,9 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parmodkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parmodkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parmod-kumar-9a176b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parmod-kumar-9a176b202" height="30" width="40" /></a>
+<a href="https://instagram.com/parmodyadav28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parmodyadav28" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/parmodyadav28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parmodyadav28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parmodkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parmodkumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parmodkumar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parmodkumar28" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yparmod0ius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yparmod0ius" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmodkumar28&show_icons=true&locale=en" alt="parmodkumar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmodkumar28&" alt="parmodkumar28" /></p>
-
