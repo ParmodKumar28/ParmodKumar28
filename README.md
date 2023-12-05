@@ -4,7 +4,7 @@
 <img src="YOUR_CODING_GIF_URL" alt="Coding GIF" style="float: right; margin-right: 20px; width: 300px;">
 
 <!-- Riding image or GIF -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Riding GIF" style="float: right; margin-right: 20px; width: 300px;">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Riding GIF" style="float: right; margin-right: 20px; width: 300px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmodkumar28&label=Profile%20views&color=0e75b6&style=flat" alt="parmodkumar28" /> </p>
 
