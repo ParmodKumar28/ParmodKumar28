@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parmod Kumar</h1>
+![image](https://github.com/ParmodKumar28/ParmodKumar28/assets/91540271/9dcbfe64-5f26-4b1a-a41c-ff3f4ffd2e05)<h1 align="center">Hi 👋, I'm Parmod Kumar</h1>
 <h3 align="center">A passionate full stack MERN developer from INDIA</h3>
 <!-- Coding GIF -->
-<img src="YOUR_CODING_GIF_URL" alt="Coding GIF" style="float: right; margin-right: 20px; width: 300px;">
+<img src="https://firefly.adobe.com/public/t2i?id=urn%3Aaaid%3Asc%3AAP%3A66ac512f-9799-4827-b749-1e14c4dd6bf8&ff_channel=shared_link&ff_source=Text2Image" alt="Coding GIF" style="float: right; margin-right: 20px; width: 300px;">
 
 <!-- Riding image or GIF -->
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Riding GIF" style="float: right; margin-right: 20px; width: 300px;">
