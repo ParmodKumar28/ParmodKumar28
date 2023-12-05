@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Parmod Kumar</h1>
 <h3 align="center">A passionate full stack MERN developer from INDIA</h3>
+<!-- Coding GIF -->
+<img src="YOUR_CODING_GIF_URL" alt="Coding GIF" style="float: right; margin-right: 20px; width: 300px;">
+
+<!-- Riding image or GIF -->
+<img src="YOUR_RIDING_GIF_URL" alt="Riding GIF" style="float: right; margin-right: 20px; width: 300px;">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmodkumar28&label=Profile%20views&color=0e75b6&style=flat" alt="parmodkumar28" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmodkumar28&label=Profile%20views&color=0e75b6&style=flat" alt="parmodkumar28" /> </p>
 
