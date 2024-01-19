@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yparmodyadav@gmail.com**
   
-- 📄 My Resume [https://rb.gy/rx3beq)
+- 📄 My Resume https://rb.gy/rx3beq
 
 - ⚡ Fun fact **Iam bike rider with coder :)**
 
