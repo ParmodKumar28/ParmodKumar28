@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yparmodyadav@gmail.com**
   
-- 📄 My Resume [https://drive.google.com/file/d/1RAYDpJxM6hZ-kD7DB9mBlde6H6uJ3Ke5/view?usp=sharing](https://drive.google.com/file/d/1RAYDpJxM6hZ-kD7DB9mBlde6H6uJ3Ke5/view?usp=sharing)
+- 📄 My Resume [https://rb.gy/rx3beq)
 
 - ⚡ Fun fact **Iam bike rider with coder :)**
 
