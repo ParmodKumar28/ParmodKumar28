@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmodkumar28&label=Profile%20views&color=0e75b6&style=flat" alt="parmodkumar28" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently building MERN Project's
 
 - 💬 Ask me about **MERN**
 
