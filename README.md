@@ -14,6 +14,8 @@
 - 📫 How to reach me **yparmodyadav@gmail.com**
   
 - 📄 My Resume https://rb.gy/rx3beq
+  
+- 🔗 My Portfolio: https://parmodkumar28.netlify.app/
 
 - ⚡ Fun fact **Iam bike rider with coder :)**
 
