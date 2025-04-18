@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yparmodyadav@gmail.com**
   
-- 📄 My Resume https://shorturl.at/lnHlh
+- 📄 My Resume https://shorturl.at/jZgkV
   
 - 🔗 My Portfolio: https://parmodkumar28.netlify.app/
 
